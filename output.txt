@@ -1,0 +1,23 @@
+===== MOTORCYCLE MANAGEMENT SYSTEM =====
+
+Motorcycle 1
+Brand: Yamaha
+Model: Mio i125
+Year: 2019
+Mileage: 42000 km
+
+Motorcycle 2
+Brand: Honda
+Model: Click 125
+Year: 2024
+Mileage: 15000 km
+
+===== MILEAGE UPDATE =====
+Mio i125 mileage updated successfully!
+Mileage cannot be reduced!
+
+===== UPDATED MOTORCYCLE INFO =====
+Brand: Yamaha
+Model: Mio i125
+Year: 2019
+Mileage: 45600 km
